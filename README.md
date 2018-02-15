@@ -19,9 +19,3 @@ Processing /home/zsolt/git/extension_packer/example/sub1/sub2/3.js
 If no path is given, the current directory of the script will be used as root.<br/>
 Traverses recursively, looking for *.js files.<br/>
 If there is a *.user.js file already, then it appends the contents with the *.js files. Else it creates a new index.user.js file.
-
-
-
-
-
-MIT license
