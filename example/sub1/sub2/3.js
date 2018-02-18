@@ -1,1 +1,1 @@
-const SomeConst = 'Some const';
+const SomeConst = 'Some other const';
